@@ -1,4 +1,5 @@
 # Hi there, I'm Avni Singh! 👋
+ [see my youtube :)](https://linktr.ee/avnisinngh)
 
 ![Alt Text](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
 
@@ -7,47 +8,21 @@ I’m a passionate Web Developer and Coder, currently diving into the fascinatin
 > **✨ "Building tech today for a smarter tomorrow."**
 
 ---
+## 📊 GitHub Stats
+![Avni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avnisinngh&show_icons=true&theme=tokyonight&count_private=true)
 
-## 🚀 About Me
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avnisinngh&layout=compact&theme=tokyonight)
 
-- **🔭 Currently working on:** Blockchain and AI/ML projects.
-- **🌱 Always learning:** Exploring new technologies to broaden my horizons.
-- **👩‍💻 Passionate about:** Creativity, problem-solving, and creating designs that stand out.
-- **🎓 Education:** Bachelor of Technology in Information Technology (Raj Kumar Goel Institute Of Technology, SGPA: 7.7).
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avnisinngh&theme=tokyonight)
 
----
+## 🌱 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avnisinngh&theme=tokyonight)
 
-## 🛠️ Skills & Tools
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=avnisinngh&color=blue)
 
-### **Programming Languages:**
-- Java, C, Python, JavaScript, Solidity
-
-### **Web Technologies:**
-- HTML, CSS, JavaScript, Node.js, React.js, MongoDB, Mongoose
-
-### **Tools & Frameworks:**
-- JWT Authentication, Express.js, Git (Version Control)
-
-### **Soft Skills:**
-- Leadership, Teamwork, Adaptability, Effective Communication, Decision-Making
-
----
-
-## 🌟 My Projects
-
-### 🗳️ **Voting Application:**
-A robust backend system for secure and transparent voting featuring:
-- User authentication (JWT)
-- Real-time vote tallying
-- Role management for users and admins
-
-### 🔐 **React Login-Signup Page:**
-- Coming soon (Stay tuned!)
-
-### 🏥 **LeetCode Solution:**
-For leetcode problems with detailed solutions.
-
----
 
 ## 🏆 Certifications & Achievements
 
@@ -64,6 +39,10 @@ For leetcode problems with detailed solutions.
 - Live video call with the Honorable Prime Minister.
 - Mentored by ISRO scientists and inspired by Dr. Abdul Kalam's teachings.
 - Developed an **Automatic Modulation Recognition software** for DVB-S2X waveforms.
+
+#### **Code Kshetra 2.0:**
+- top 150 teams to be selected as finalist
+- Developed an **Food Connect** platform to connect food donors to NGO's
 
 ---
 
